@@ -100,22 +100,22 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/miku",
 	"position": [
-		50,
+		-80,
 		60
 	],
 	"healthicon": "miku",
 	"flip_x": false,
 	"healthbar_colors": [
-		48,
-		175,
-		209
+		50,
+		205,
+		204
 	],
 	"camera_position": [
 		-50,
-		160
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1
