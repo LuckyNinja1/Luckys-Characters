@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SockClip for Arts and Song"
+		},
+		{
+			"offsets": [
+				16,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Credit Goes to"
+		},
+		{
+			"offsets": [
+				-12,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Whitty Sing Down MISS"
+		},
+		{
+			"offsets": [
+				16,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Whitty Sing Up MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KadeDev for Coding",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nate Anim8 for Arts and Chart",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Whitty Sing Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Whitty Sing Right MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/whitty",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		204
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
