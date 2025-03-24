@@ -107,7 +107,7 @@
 		60
 	],
 	"healthicon": "miku",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		175,
 		238,
