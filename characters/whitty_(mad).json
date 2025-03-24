@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty idle dance"
+		},
+		{
+			"offsets": [
+				-11,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whitty Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				16,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Sign Note UP"
+		},
+		{
+			"offsets": [
+				-12,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Whitty Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				16,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Whitty Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty sing note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "whitty sing note right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/whitty_(mad)",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "whitty_(mad)",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		204
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
