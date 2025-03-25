@@ -1,121 +1,121 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				10,
+				20,
 				60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Whitty idle dance"
+			"fps": 24,
+			"name": "Whitty idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-76
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-76
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				162
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Whitty Sing Note UP",
+			"indices": []
 		},
 		{
 			"offsets": [
-				-11,
-				22
+				60,
+				74
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "Whitty Sing Note DOWN"
+			"name": "Whitty Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				16,
-				110
+				245,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitty sing note right"
+		},
+		{
+			"offsets": [
+				60,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Whitty Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				245,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "whitty sing note right"
+		},
+		{
+			"offsets": [
+				3,
+				172
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Whitty Sign Note UP"
-		},
-		{
-			"offsets": [
-				-12,
-				-22
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Whitty Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				16,
-				26
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
 			"name": "Whitty Sing Note UP"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				30,
-				65
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Whitty Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-15,
-				85
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "whitty sing note right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				30,
-				-6
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "Whitty Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				5
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "whitty sing note right",
-			"indices": []
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/whitty_(mad)",
 	"position": [
-		-80,
-		60
+		-20,
+		70
 	],
 	"healthicon": "whitty_(mad)",
 	"flip_x": false,
 	"healthbar_colors": [
-		50,
-		205,
-		204
+		255,
+		20,
+		20
 	],
 	"camera_position": [
-		-50,
-		0
+		80,
+		-20
 	],
 	"sing_duration": 4,
 	"scale": 1
