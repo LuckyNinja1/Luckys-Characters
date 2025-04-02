@@ -1,0 +1,294 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "TordIdlePlayable"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "TordIdlePlayable"
+		},
+		{
+			"offsets": [
+				-7,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TordIdleRight"
+		},
+		{
+			"offsets": [
+				-7,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "TordIdleRight"
+		},
+		{
+			"offsets": [
+				43,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TordIdleLeft"
+		},
+		{
+			"offsets": [
+				43,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "TordIdleLeft"
+		},
+		{
+			"offsets": [
+				8,
+				-86
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "TordIdleDown"
+		},
+		{
+			"offsets": [
+				8,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TordIdleDown"
+		},
+		{
+			"offsets": [
+				8,
+				-86
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "TordDown-alt"
+		},
+		{
+			"offsets": [
+				8,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "TordDown-alt"
+		},
+		{
+			"offsets": [
+				43,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "TordLeft-alt"
+		},
+		{
+			"offsets": [
+				43,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "TordLeft-alt"
+		},
+		{
+			"offsets": [
+				-11,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TordIdleUp"
+		},
+		{
+			"offsets": [
+				-11,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "TordIdleUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "TordIdleHEY!!",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "mad",
+			"loop": true,
+			"name": "TordGrr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tord_Angry",
+	"position": [
+		75,
+		50
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

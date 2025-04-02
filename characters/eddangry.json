@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				178
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				278
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				239
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EddRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EddLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				10,
+				178
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "EddDown"
+		},
+		{
+			"offsets": [
+				-27,
+				278
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "EddUp"
+		},
+		{
+			"offsets": [
+				-13,
+				239
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "EddRight"
+		},
+		{
+			"offsets": [
+				1,
+				243
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "EddLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddAngry",
+	"position": [
+		-420,
+		350
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		300,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

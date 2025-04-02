@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SlideTom.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TomEnterDown0000" x="0" y="0" width="500" height="464"/>
+	<SubTexture name="TomEnterDown0001" x="0" y="0" width="500" height="464"/>
+	<SubTexture name="TomEnterDown0002" x="500" y="0" width="500" height="464"/>
+	<SubTexture name="TomEnterDown0003" x="500" y="0" width="500" height="464"/>
+	<SubTexture name="TomEnterDown0004" x="1000" y="0" width="500" height="464"/>
+	<SubTexture name="TomEnterIdle0000" x="1500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0001" x="1500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0002" x="2000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0003" x="2000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0004" x="2500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0005" x="2500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0006" x="3000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0007" x="3000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0008" x="3500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0009" x="3500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0010" x="3000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0011" x="3000" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0012" x="3500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterIdle0013" x="3500" y="0" width="500" height="468"/>
+	<SubTexture name="TomEnterLeft0000" x="0" y="468" width="500" height="481"/>
+	<SubTexture name="TomEnterLeft0001" x="0" y="468" width="500" height="481"/>
+	<SubTexture name="TomEnterLeft0002" x="500" y="468" width="500" height="481"/>
+	<SubTexture name="TomEnterLeft0003" x="500" y="468" width="500" height="481"/>
+	<SubTexture name="TomEnterLeft0004" x="1000" y="468" width="500" height="481"/>
+	<SubTexture name="TomEnterRight0000" x="1500" y="468" width="500" height="487"/>
+	<SubTexture name="TomEnterRight0001" x="1500" y="468" width="500" height="487"/>
+	<SubTexture name="TomEnterRight0002" x="2000" y="468" width="500" height="487"/>
+	<SubTexture name="TomEnterRight0003" x="2000" y="468" width="500" height="487"/>
+	<SubTexture name="TomEnterRight0004" x="2500" y="468" width="500" height="487"/>
+	<SubTexture name="TomEnterUp0000" x="3000" y="468" width="500" height="504"/>
+	<SubTexture name="TomEnterUp0001" x="3000" y="468" width="500" height="504"/>
+	<SubTexture name="TomEnterUp0002" x="3500" y="468" width="500" height="504"/>
+	<SubTexture name="TomEnterUp0003" x="3500" y="468" width="500" height="504"/>
+	<SubTexture name="TomEnterUp0004" x="0" y="972" width="500" height="504"/>
+</TextureAtlas>

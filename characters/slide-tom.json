@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TomEnterDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TomEnterUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TomEnterIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TomEnterRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TomEnterLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SlideTom",
+	"position": [
+		-1750,
+		290
+	],
+	"healthicon": "Tom",
+	"flip_x": true,
+	"healthbar_colors": [
+		18,
+		93,
+		217
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

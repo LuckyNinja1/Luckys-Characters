@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EddEnterDown"
+		},
+		{
+			"offsets": [
+				20,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EddEnterUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EddEnterIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EddEnterRight"
+		},
+		{
+			"offsets": [
+				20,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EddEnterLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SlideEdd",
+	"position": [
+		-780,
+		320
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

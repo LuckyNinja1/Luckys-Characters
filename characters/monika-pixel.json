@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MkaIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MkaUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MkaRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MkaLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MkaDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Mka Alt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				6
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Mka Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Mka Alt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Mka Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Mka Alt Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monika",
+	"position": [
+		150,
+		400
+	],
+	"healthicon": "monika-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		227
+	],
+	"camera_position": [
+		-250,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

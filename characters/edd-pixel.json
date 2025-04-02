@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "edd idle"
+		},
+		{
+			"offsets": [
+				1,
+				19
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "edd up"
+		},
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "edd left"
+		},
+		{
+			"offsets": [
+				40,
+				2
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "edd right"
+		},
+		{
+			"offsets": [
+				1,
+				-35
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "edd down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dorkly_Edd",
+	"position": [
+		-270,
+		120
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		50,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

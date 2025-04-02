@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				10,
+				189
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "EddDown"
+		},
+		{
+			"offsets": [
+				-26,
+				276
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "EddUp"
+		},
+		{
+			"offsets": [
+				15,
+				244
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "EddLeft"
+		},
+		{
+			"offsets": [
+				-12,
+				250
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "EddRight"
+		},
+		{
+			"offsets": [
+				10,
+				189
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EddDown"
+		},
+		{
+			"offsets": [
+				-26,
+				276
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EddUp"
+		},
+		{
+			"offsets": [
+				15,
+				244
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EddLeft"
+		},
+		{
+			"offsets": [
+				-12,
+				250
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EddRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddNew",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		0,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Hard,Old",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"four-way-fracture",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Doki Trouble"
+}

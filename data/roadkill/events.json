@@ -1,0 +1,691 @@
+{
+	"song": {
+		"events": [
+			[
+				36454.5454545455,
+				[
+					[
+						"Cinematics",
+						"start",
+						"1"
+					]
+				]
+			],
+			[
+				36628.7878787879,
+				[
+					[
+						"Stage Type",
+						"eduardo",
+						""
+					]
+				]
+			],
+			[
+				36632.5757575758,
+				[
+					[
+						"CameraControl",
+						"-650,350",
+						"0.6"
+					]
+				]
+			],
+			[
+				36636.3636363636,
+				[
+					[
+						"Change Character",
+						"gf",
+						"eddside"
+					],
+					[
+						"Change Character",
+						"dad",
+						"eduardo-fence"
+					],
+					[
+						"subtitles",
+						"eduardo",
+						"well"
+					],
+					[
+						"Play Animation",
+						"well",
+						"dad"
+					]
+				]
+			],
+			[
+				36640.1515151515,
+				[
+					[
+						"Play Animation",
+						"turn",
+						"gf"
+					]
+				]
+			],
+			[
+				36996.2121212121,
+				[
+					[
+						"subtitles",
+						"eduardo",
+						"well well"
+					]
+				]
+			],
+			[
+				37000,
+				[
+					[
+						"Play Animation",
+						"well",
+						"dad"
+					]
+				]
+			],
+			[
+				37356.0606060606,
+				[
+					[
+						"subtitles",
+						"eduardo",
+						""
+					]
+				]
+			],
+			[
+				37359.8484848485,
+				[
+					[
+						"subtitles",
+						"eduardo2",
+						"well well well"
+					]
+				]
+			],
+			[
+				37363.6363636364,
+				[
+					[
+						"Play Animation",
+						"well",
+						"dad"
+					]
+				]
+			],
+			[
+				37727.2727272727,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37806.8181818182,
+				[
+					[
+						"subtitles",
+						"eduardo2",
+						""
+					]
+				]
+			],
+			[
+				37818.1818181818,
+				[
+					[
+						"Cinematics",
+						"end",
+						"1"
+					]
+				]
+			],
+			[
+				130863.636363636,
+				[
+					[
+						"CameraControl",
+						"150,350",
+						"0.6"
+					]
+				]
+			],
+			[
+				130909.090909091,
+				[
+					[
+						"Stage Type",
+						"eddhouse",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"edd-tordcutsene"
+					],
+					[
+						"Play Animation",
+						"what",
+						"dad"
+					],
+					[
+						"Set Character Alpha",
+						"gf",
+						"0"
+					],
+					[
+						"Screen Shake",
+						"2.5, 0.0015",
+						"2.5, 0.0015"
+					],
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Play Animation",
+						"lookin",
+						"dad"
+					]
+				]
+			],
+			[
+				132090.909090909,
+				[
+					[
+						"Camera Follow Pos",
+						"150",
+						"-200"
+					]
+				]
+			],
+			[
+				136621.212121212,
+				[
+					[
+						"CameraControl",
+						"-450,380",
+						"0.9"
+					]
+				]
+			],
+			[
+				136628.787878788,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136632.575757576,
+				[
+					[
+						"Stage Type",
+						"tord",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				136636.363636364,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tordbot"
+					],
+					[
+						"Change Character",
+						"bf",
+						"slide-matt"
+					],
+					[
+						"Set Character Alpha",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				141727.272727273,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				148272.727272727,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bigmonika"
+					],
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				148359.848484848,
+				[
+					[
+						"Stage Type",
+						"monika",
+						""
+					]
+				]
+			],
+			[
+				151181.818181818,
+				[
+					[
+						"Change Character",
+						"bf",
+						"yuri-closeupP"
+					]
+				]
+			],
+			[
+				151185.606060606,
+				[
+					[
+						"Stage Type",
+						"yuri",
+						""
+					]
+				]
+			],
+			[
+				151189.393939394,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				158727.272727273,
+				[
+					[
+						"Cinematics",
+						"start",
+						"1"
+					]
+				]
+			],
+			[
+				159636.363636363,
+				[
+					[
+						"subtitles",
+						"tom",
+						"HEY!!"
+					]
+				]
+			],
+			[
+				159909.090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tordbot"
+					],
+					[
+						"Change Character",
+						"bf",
+						"slide-tom"
+					]
+				]
+			],
+			[
+				159977.272727273,
+				[
+					[
+						"CameraControl",
+						"-450,380",
+						"0.9"
+					]
+				]
+			],
+			[
+				159984.848484848,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				159988.636363636,
+				[
+					[
+						"Cinematics",
+						"end",
+						"1"
+					]
+				]
+			],
+			[
+				159992.424242424,
+				[
+					[
+						"Stage Type",
+						"tord",
+						""
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"subtitles",
+						"tom",
+						""
+					]
+				]
+			],
+			[
+				171625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bigmonika"
+					]
+				]
+			],
+			[
+				171632.575757575,
+				[
+					[
+						"Stage Type",
+						"monika",
+						""
+					],
+				]
+			],
+			[
+				171636.363636363,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				173000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"natsuki"
+					]
+				]
+			],
+			[
+				183272.727272727,
+				[
+					[
+						"Play Animation",
+						"lastNOTE",
+						"dad"
+					]
+				]
+			],
+			[
+				183636.363636363,
+				[
+					[
+						"Play Animation",
+						"lastNOTE-loop",
+						"dad"
+					]
+				]
+			],
+			[
+				184715.909090909,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tordbot"
+					]
+				]
+			],
+			[
+				184723.484848484,
+				[
+					[
+						"Stage Type",
+						"tord",
+						""
+					]
+				]
+			],
+			[
+				188909.09090909,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"slide-edd"
+					]
+				]
+			],
+			[
+				191909.09090909,
+				[
+					[
+						"Change Character",
+						"bf",
+						"slide-matt"
+					]
+				]
+			],
+			[
+				193454.545454545,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				194454.545454545,
+				[
+					[
+						"Change Character",
+						"bf",
+						"slide-tom"
+					]
+				]
+			],
+			[
+				194500,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				196363.636363636,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.025",
+						"0.5, 0.025"
+					],
+					[
+						"Change Character",
+						"dad",
+						"tord2"
+					],
+					[
+						"Play Animation",
+						"harpoon",
+						"dad"
+					]
+				]
+			],
+			[
+				196727.272727272,
+				[
+					[
+						"Screen Shake",
+						"3.3, 0.01",
+						"3.3, 0.01"
+					]
+				]
+			],
+			[
+				197272.727272727,
+				[
+					[
+						"Set Character Alpha",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				198181.818181818,
+				[
+					[
+						"Play Animation",
+						"harpoonline",
+						"dad"
+					]
+				]
+			],
+			[
+				198632.575757575,
+				[
+					[
+						"CameraControl",
+						"150,-200",
+						"0.6"
+					],
+					[
+						"Change Character",
+						"dad",
+						"edd-tordcutsene"
+					]
+				]
+			],
+			[
+				198636.363636363,
+				[
+					[
+						"Stage Type",
+						"eddhouse",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				198640.151515151,
+				[
+					[
+						"Play Animation",
+						"looking",
+						"dad"
+					]
+				]
+			],
+			[
+				199999.999999999,
+				[
+					[
+						"Screen Shake",
+						"0.7, 0.035",
+						"0.7, 0.035"
+					]
+				]
+			],
+			[
+				200003.787878787,
+				[
+					[
+						"Camera Follow Pos",
+						"150",
+						"350"
+					]
+				]
+			],
+			[
+				204545.454545454,
+				[
+					[
+						"Play Animation",
+						"tom",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

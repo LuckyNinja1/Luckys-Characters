@@ -1,0 +1,346 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TomLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TomDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TomUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TomRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TomHEY!!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				272,
+				-22
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "TomSusanLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "TomSusanIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "TomSusanDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TomSusanUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "TomSusanRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				10
+			],
+			"anim": "startup",
+			"fps": 32,
+			"name": "TomSusanStartup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "TomLeft",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				-73
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "TomDown",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				35
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "TomUp",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "TomRight",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "TomIdle",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				6,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "TomHEY!!"
+		},
+		{
+			"offsets": [
+				200,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "TomSusanIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TomIdle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				8,
+				9,
+				10,
+				11,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				272,
+				-22
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt-loop",
+			"loop": true,
+			"name": "TomSusanLeft"
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt-loop",
+			"loop": true,
+			"name": "TomSusanDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt-loop",
+			"loop": true,
+			"name": "TomSusanRight"
+		},
+		{
+			"offsets": [
+				-70,
+				77
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP-alt-loop",
+			"loop": true,
+			"name": "TomSusanUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tom Assets",
+	"position": [
+		-850,
+		80
+	],
+	"healthicon": "tom",
+	"flip_x": true,
+	"healthbar_colors": [
+		18,
+		93,
+		217
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

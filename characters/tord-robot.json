@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TordIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TordDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5
+			],
+			"name": "TordHa"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				15
+			],
+			"anim": "singDOWN-alt",
+			"fps": 50,
+			"name": "TordButtonPress",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "TordIdle"
+		},
+		{
+			"offsets": [
+				-13,
+				-17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				4,
+				5,
+				6
+			],
+			"name": "TordDown"
+		},
+		{
+			"offsets": [
+				-45,
+				-17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "TordRight"
+		},
+		{
+			"offsets": [
+				-160,
+				65
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "TordUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tord",
+	"position": [
+		90,
+		-100
+	],
+	"healthicon": "tord",
+	"flip_x": true,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		-80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

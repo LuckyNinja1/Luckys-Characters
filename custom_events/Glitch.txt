@@ -1,0 +1,4 @@
+Glitch Thingy
+
+Value 1: Glitch Alpha
+Value 2: Glitch Timer

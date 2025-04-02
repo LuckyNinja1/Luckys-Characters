@@ -1,0 +1,4 @@
+Glitch Fader Thingy
+
+Value 1: Duration
+Value 2: Glitch Alpha

@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "EddSideIdle"
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "EddSideIdle"
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "what",
+			"loop": false,
+			"name": "EddTurnAround"
+		},
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "EddTurnAround"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddSide",
+	"position": [
+		1230,
+		300
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		-450,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
